@@ -12,7 +12,7 @@
     💻컴퓨터정보공학부<br>
     👨‍💻 프론트엔드 개발자<br><br>
    </summary>
-<details>
+
 
   
  ![Untitled (2)](https://user-images.githubusercontent.com/54710010/132083848-8efaa7ce-8eae-42ec-ab2c-cb5636060e84.png)
@@ -38,4 +38,4 @@
 💻 컴퓨터정보공학부<br>
 👨‍💻 프론트엔드 개발자<br><br>
 
-
+<details>
