@@ -4,14 +4,15 @@
  
  
  <details>
-   <summary>
+
+    
     ## Who are we?<br>
     ![Untitled (1)](https://user-images.githubusercontent.com/54710010/132083830-d56a9d83-cbba-4ba2-b1aa-bea62d788058.png)
     ### ✔️ 박철종
     🕶️ 팀장<br>
     💻컴퓨터정보공학부<br>
     👨‍💻 프론트엔드 개발자<br><br>
-   </summary>
+   
 
 
   
