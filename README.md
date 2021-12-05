@@ -46,7 +46,7 @@
   
  <details> 
  <summary> What is Witness </summary>
- ![image](https://user-images.githubusercontent.com/54710010/144768434-58c5ff7a-5f09-471f-b094-b6580d3b0376.png)
- ![image](https://user-images.githubusercontent.com/54710010/144768440-00898c6f-66d7-4494-8592-00f7ae75dceb.png)
+ ![image](https://user-images.githubusercontent.com/54710010/144768486-9d048145-cd40-4aa1-9518-5164f93f4af3.png)
+
 
  </details>
