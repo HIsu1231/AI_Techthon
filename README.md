@@ -33,6 +33,8 @@
 🙋‍♀️ [github.com](https://github.com/HIsu1231)<br><br>
 
 
+ 
+ 
 ![Untitled (5)](https://user-images.githubusercontent.com/54710010/132083887-6ae8da82-1c26-4893-a14a-ff37d05700cf.png)
 ### ✔️ 김정원
 💻 컴퓨터정보공학부<br>
@@ -44,5 +46,7 @@
   
  <details> 
  <summary> What is Witness </summary>
- 
+ ![image](https://user-images.githubusercontent.com/54710010/144768434-58c5ff7a-5f09-471f-b094-b6580d3b0376.png)
+ ![image](https://user-images.githubusercontent.com/54710010/144768440-00898c6f-66d7-4494-8592-00f7ae75dceb.png)
+
  </details>
