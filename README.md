@@ -1,7 +1,8 @@
 # AI_Techthon
  2021 가톨릭대 AI Techthon 
  "홈트레이닝 AI 코칭 시스템 Witness"
- 
+ ![KakaoTalk_20211206_083026209](https://user-images.githubusercontent.com/54710010/144768611-80b4b7b7-e090-41fe-a851-0fb3a60221a3.png)
+
  ![KakaoTalk_20211206_083045938](https://user-images.githubusercontent.com/54710010/144768554-b6afaf4e-80b3-4e62-849c-1e6223aea51f.png)
  
  <details> 
