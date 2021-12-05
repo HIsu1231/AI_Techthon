@@ -46,8 +46,7 @@
   
  <details> 
  <summary> What is Witness </summary>
- ![KakaoTalk_20211206_083045938](https://user-images.githubusercontent.com/54710010/144768528-f42a3bb2-5ae6-4708-83d2-3b62e5e773da.png)
-
-
-
  </details>
+ 
+![KakaoTalk_20211206_083045938](https://user-images.githubusercontent.com/54710010/144768554-b6afaf4e-80b3-4e62-849c-1e6223aea51f.png)
+
